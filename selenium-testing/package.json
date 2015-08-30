@@ -1,0 +1,17 @@
+{
+  "name": "selenium-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.2",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.8.9",
+    "gulp-mocha-selenium": "^1.0.0"
+  }
+}
